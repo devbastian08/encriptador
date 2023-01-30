@@ -66,14 +66,7 @@ button:active {
                 -4px -4px 12px #d5deed;
 }
 
-@media screen and (max-width: 980px){
-    #contenedor{
-        width: 90%;
-    }
-    #contenido{
-        width: 60%;
-    }
-    #barra_lateral{
-        width:30%;
-    }
+#contenedor {
+    width: 90%;
+    max-width: 1024px;
 }
