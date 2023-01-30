@@ -65,3 +65,15 @@ button:active {
     box-shadow: 4px 4px 12px #95a0e8,
                 -4px -4px 12px #d5deed;
 }
+
+@media screen and (max-width: 980px){
+    #contenedor{
+        width: 90%;
+    }
+    #contenido{
+        width: 60%;
+    }
+    #barra_lateral{
+        width:30%;
+    }
+}
