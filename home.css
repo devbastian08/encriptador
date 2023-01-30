@@ -1,3 +1,7 @@
+#container {
+    width: 90%;
+    max-width: 1024px;
+}
 header{
     margin: 6%;
     width: 60%;
@@ -66,7 +70,4 @@ button:active {
                 -4px -4px 12px #d5deed;
 }
 
-#contenedor {
-    width: 90%;
-    max-width: 1024px;
-}
+
